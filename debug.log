@@ -12,3 +12,22 @@
 [0904/004249.121:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
 [0904/004249.121:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accesso negato} Un processo ha richiesto di accedere ad un oggetto ma non ha ottenuto i diritti di accesso. (0xc0000022)
 [0904/004249.121:ERROR:exception_snapshot_win.cc(99)] thread ID 7404 not found in process
+[0915/235448.431:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\filip\AppData\Local\Temp\scoped_dir17684_424552000\Crashpad\reports\3a1ee938-538c-420c-916e-2dc31a172995.dmp: Impossibile accedere al file. Il file è utilizzato da un altro processo. (0x20)
+[0915/235448.716:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\filip\AppData\Local\Temp\scoped_dir25728_84590937\Crashpad\reports\489907f7-3e5f-4e09-b0ac-e0f977ba0ec7.dmp: Impossibile accedere al file. Il file è utilizzato da un altro processo. (0x20)
+[0915/235449.810:ERROR:process_info.cc(359)] UncheckedAllocate
+[0915/235456.053:ERROR:process_info.cc(359)] UncheckedAllocate
+[0915/235534.112:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\filip\AppData\Local\Temp\scoped_dir33492_1065258055\Crashpad\reports\46ddb2a3-b09b-4469-a371-2bae151a8414.dmp: Impossibile accedere al file. Il file è utilizzato da un altro processo. (0x20)
+[0915/235534.203:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\filip\AppData\Local\Temp\scoped_dir3632_431536468\Crashpad\reports\9c142566-741b-46ef-8fe8-d5fb61132438.dmp: Impossibile accedere al file. Il file è utilizzato da un altro processo. (0x20)
+[0915/235537.306:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\filip\AppData\Local\Temp\scoped_dir7660_1804324074\Crashpad\reports\f9551488-69e4-44cd-bba3-3d7876ea7dc4.dmp: Impossibile accedere al file. Il file è utilizzato da un altro processo. (0x20)
+[0915/235537.936:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\filip\AppData\Local\Temp\scoped_dir22320_1018908257\Crashpad\reports\83ab6388-856a-4e55-841a-a07404f5dffc.dmp: Impossibile accedere al file. Il file è utilizzato da un altro processo. (0x20)
+[0915/235544.540:ERROR:process_reader_win.cc(188)] ResumeThread: Parametro non corretto. (0x57)
+[0915/235544.541:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0915/235544.541:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0915/235544.541:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0915/235544.541:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0915/235544.541:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0915/235544.541:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0915/235544.541:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0915/235544.541:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0915/235544.541:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0915/235544.541:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
